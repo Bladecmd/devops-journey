@@ -59,7 +59,7 @@ This repo is part of my personal mission to:
 
 - GitHub: [@Bladecmd](https://github.com/bladecmd)
 - Portfolio: Coming soon
-- Email: [your email here]
+
 
 ---
 
